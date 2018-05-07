@@ -1,0 +1,5 @@
+aSmall :document.querySelectorAll(".small"),
+	omiddle :document.querySelector(".middle"),
+	oBox :document.getElementById("box"),
+	oFilter :document.getElementById("filter"),
+	maxImg :document.getElementById("maxImg"),
